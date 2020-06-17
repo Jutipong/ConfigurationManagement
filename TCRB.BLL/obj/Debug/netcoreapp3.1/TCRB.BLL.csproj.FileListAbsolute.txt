@@ -1,0 +1,14 @@
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\bin\Debug\netcoreapp3.1\TCRB.BLL.deps.json
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\bin\Debug\netcoreapp3.1\TCRB.BLL.dll
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\bin\Debug\netcoreapp3.1\TCRB.BLL.pdb
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\bin\Debug\netcoreapp3.1\TCRB.DAL.dll
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\bin\Debug\netcoreapp3.1\TCRB.HELPER.dll
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\bin\Debug\netcoreapp3.1\TCRB.DAL.pdb
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\bin\Debug\netcoreapp3.1\TCRB.HELPER.pdb
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\obj\Debug\netcoreapp3.1\TCRB.BLL.csprojAssemblyReference.cache
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\obj\Debug\netcoreapp3.1\TCRB.BLL.AssemblyInfoInputs.cache
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\obj\Debug\netcoreapp3.1\TCRB.BLL.AssemblyInfo.cs
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\obj\Debug\netcoreapp3.1\TCRB.BLL.csproj.CopyComplete
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\obj\Debug\netcoreapp3.1\TCRB.BLL.dll
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\obj\Debug\netcoreapp3.1\TCRB.BLL.pdb
+D:\SourceCode\ConfigurationManagement\TCRB.BLL\obj\Debug\netcoreapp3.1\TCRB.BLL.csproj.CoreCompileInputs.cache
